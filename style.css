@@ -1,0 +1,10 @@
+#myCanvas {
+  border:solid 2px white;
+  margin:auto;
+}
+
+body {
+  text-align: center;
+  background-color: #133e42;
+  color:white;
+}
